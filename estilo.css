@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+	background-color: #E6E6E6;
+	font-family: Baskerville, "georgia", sans-serif;
+}
+
+.areacv {
+	background-color: #ffffff;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px rgb(169,169,169);
+	padding: 10px;
+}
+
+.foto {
+	border-radius: 100%;
+	border: solid 1px #000000;
+}
+
+h5 {
+	color: #610B4B;
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;
+}
